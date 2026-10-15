@@ -1,8 +1,8 @@
 class Agentless < Formula
   desc "Declarative agent.yaml deployments of ADK agents to Google Cloud Agent Runtime"
   homepage "https://github.com/Aymen2518/agentless"
-  url "https://github.com/Aymen2518/agentless/releases/download/v0.5.0/agentless_cli-0.5.0.tar.gz"
-  sha256 "d3e6548d68d55235c4f015c5f1ee2558f8887a0997be7feba4fb5445253b8d85"
+  url "https://github.com/Aymen2518/agentless/releases/download/v0.6.0/agentless_cli-0.6.0.tar.gz"
+  sha256 "a65cbd843904f1fb795f8e9a6329f59bad4848aaeb7cd688542c433af0e9c392"
   license "Apache-2.0"
 
   depends_on "python@3.11"
